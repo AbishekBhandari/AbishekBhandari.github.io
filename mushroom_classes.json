@@ -10,7 +10,8 @@
             "http://www.mushroom.world/data/fungi/Albatrellusovinus4.JPG",
             "http://www.mushroom.world/data/fungi/Albatrellusovinus5.JPG"
         ],
-        "edibility": "edible"
+        "edibility": "edible",
+        "description": "Albatrellus ovinus is a terrestrial polypore fungus found in western North America, and Northern Europe. It is very closely related to the rarer A. subrubescens, from which it may be distinguished microscopically by the amyloid spore wall. It is edible and sold commercially in Finland."
     },
     {
         "name_latin": "Tylopilus felleus",
