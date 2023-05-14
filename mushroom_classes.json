@@ -10,8 +10,7 @@
             "http://www.mushroom.world/data/fungi/Albatrellusovinus4.JPG",
             "http://www.mushroom.world/data/fungi/Albatrellusovinus5.JPG"
         ],
-        "edibility": "edible",
-        "description": "Albatrellus ovinus is a terrestrial polypore fungus found in western North America, and Northern Europe. It is very closely related to the rarer A. subrubescens, from which it may be distinguished microscopically by the amyloid spore wall. It is edible and sold commercially in Finland."
+        "edibility": "edible"
     },
     {
         "name_latin": "Tylopilus felleus",
@@ -24,8 +23,7 @@
             "http://www.mushroom.world/data/fungi/Tylopilusfelleus4.JPG",
             "http://www.mushroom.world/data/fungi/Tylopilusfelleus5.JPG"
         ],
-        "edibility": "inedible",
-        "description": 
+        "edibility": "inedible"
     },
     {
         "name_latin": "Tricholomopsis rutilans",
@@ -38,8 +36,7 @@
             "http://www.mushroom.world/data/fungi/Tricholomopsisrutilans4.JPG",
             "http://www.mushroom.world/data/fungi/Tricholomopsisrutilans5.JPG"
         ],
-        "edibility": "inedible",
-        "description":
+        "edibility": "inedible"
     },
     {
         "name_latin": "Tricholomopsis decora",
@@ -51,8 +48,7 @@
             "http://www.mushroom.world/data/fungi/Tricholomopsisdecora3.JPG",
             "http://www.mushroom.world/data/fungi/Tricholomopsisdecora4.JPG"
         ],
-        "edibility": "inedible",
-        "description":
+        "edibility": "inedible"
     },
     {
         "name_latin": "Tricholoma sejunctum",
@@ -64,8 +60,7 @@
             "http://www.mushroom.world/data/fungi/Tricholomasejunctum3.JPG",
             "http://www.mushroom.world/data/fungi/Tricholomasejunctum4.JPG"
         ],
-        "edibility": "inedible",
-        "description":
+        "edibility": "inedible"
     },
     {
         "name_latin": "Tricholoma focale",
@@ -79,7 +74,6 @@
             "http://www.mushroom.world/data/fungi/Tricholomafocale5.JPG"
         ],
         "edibility": "inedible"
-        "description":
     },
     {
         "name_latin": "Suillus variegatus",
@@ -92,8 +86,7 @@
             "http://www.mushroom.world/data/fungi/Suillusvariegatus4.JPG",
             "http://www.mushroom.world/data/fungi/Suillusvariegatus5.JPG"
         ],
-        "edibility": "edible",
-        "description":
+        "edibility": "edible"
     },
     {
         "name_latin": "Suillus luteus",
@@ -106,8 +99,7 @@
             "http://www.mushroom.world/data/fungi/Suillusluteus4.JPG",
             "http://www.mushroom.world/data/fungi/Suillusluteus5.JPG"
         ],
-        "edibility": "edible and good",
-        "description": ""
+        "edibility": "edible and good"
     },
     {
         "name_latin": "Suillus grevillei",
@@ -121,8 +113,7 @@
             "http://www.mushroom.world/data/fungi/Suillusgrevillei5.JPG",
             "http://www.mushroom.world/data/fungi/Suillusgrevillei6.JPG"
         ],
-        "edibility": "edible",
-        "description": ""
+        "edibility": "edible"
     },
     {
         "name_latin": "Suillus bovinus",
@@ -135,8 +126,7 @@
             "http://www.mushroom.world/data/fungi/Suillusbovinus4.JPG",
             "http://www.mushroom.world/data/fungi/Suillusbovinus5.JPG"
         ],
-        "edibility": "edible",
-        "description": ""
+        "edibility": "edible"
     },
     {
         "name_latin": "Stropharia hornemannii",
@@ -150,8 +140,7 @@
             "http://www.mushroom.world/data/fungi/Strophariahornemannii5.JPG",
             "http://www.mushroom.world/data/fungi/Strophariahornemannii6.JPG"
         ],
-        "edibility": "poisonous",
-        "description": ""
+        "edibility": "poisonous"
     },
     {
         "name_latin": "Strobilurus stephanocystis",
@@ -162,8 +151,7 @@
             "http://www.mushroom.world/data/fungi/Strobilurusstephanocystis2.JPG",
             "http://www.mushroom.world/data/fungi/Strobilurusstephanocystis3.JPG"
         ],
-        "edibility": "inedible",
-        "description": ""
+        "edibility": "inedible"
     },
     {
         "name_latin": "Strobilurus esculentus",
@@ -174,8 +162,7 @@
             "http://www.mushroom.world/data/fungi/Strobilurusesculentus2.JPG",
             "http://www.mushroom.world/data/fungi/Strobilurusesculentus3.JPG"
         ],
-        "edibility": "inedible",
-        "description": ""
+        "edibility": "inedible"
     },
     {
         "name_latin": "Sarcodon squamosus",
@@ -188,8 +175,7 @@
             "http://www.mushroom.world/data/fungi/Sarcodonsquamosus4.JPG",
             "http://www.mushroom.world/data/fungi/Sarcodonsquamosus5.JPG"
         ],
-        "edibility": "edible",
-        "description": ""
+        "edibility": "edible"
     },
     {
         "name_latin": "Russula paludosa",
@@ -203,8 +189,7 @@
             "http://www.mushroom.world/data/fungi/Russulapaludosa5.JPG",
             "http://www.mushroom.world/data/fungi/Russulapaludosa6.JPG"
         ],
-        "edibility": "edible",
-        "description": ""
+        "edibility": "edible"
     },
     {
         "name_latin": "Russula obscura",
@@ -217,8 +202,7 @@
             "http://www.mushroom.world/data/fungi/Russulaobscura4.JPG",
             "http://www.mushroom.world/data/fungi/Russulaobscura5.JPG"
         ],
-        "edibility": "edible",
-        "description": ""
+        "edibility": "edible"
     },
     {
         "name_latin": "Russula emetica",
@@ -232,8 +216,7 @@
             "http://www.mushroom.world/data/fungi/Russulaemetica5.JPG",
             "http://www.mushroom.world/data/fungi/Russulaemetica6.JPG"
         ],
-        "edibility": "poisonous",
-        "description": ""
+        "edibility": "poisonous"
     },
     {
         "name_latin": "Russula decolorans",
@@ -246,8 +229,7 @@
             "http://www.mushroom.world/data/fungi/Russuladecolorans4.JPG",
             "http://www.mushroom.world/data/fungi/Russuladecolorans5.JPG"
         ],
-        "edibility": "edible",
-        "description": ""
+        "edibility": "edible"
     },
     {
         "name_latin": "Russula claroflava",
@@ -260,8 +242,7 @@
             "http://www.mushroom.world/data/fungi/Russulaclaroflava4.JPG",
             "http://www.mushroom.world/data/fungi/Russulaclaroflava5.JPG"
         ],
-        "edibility": "edible",
-        "description": ""
+        "edibility": "edible"
     },
     {
         "name_latin": "Russula aeruginea",
@@ -273,8 +254,7 @@
             "http://www.mushroom.world/data/fungi/Russulaaeruginea3.JPG",
             "http://www.mushroom.world/data/fungi/Russulaaeruginea4.JPG"
         ],
-        "edibility": "edible",
-        "description": ""
+        "edibility": "edible"
     },
     {
         "name_latin": "Russula acrifolia",
@@ -284,8 +264,7 @@
             "http://www.mushroom.world/data/fungi/Russulaacrifolia1.JPG",
             "http://www.mushroom.world/data/fungi/Russulaacrifolia2.JPG"
         ],
-        "edibility": "inedible",
-        "description": ""
+        "edibility": "inedible"
     },
     {
         "name_latin": "Rozites caperatus",
@@ -299,8 +278,7 @@
             "http://www.mushroom.world/data/fungi/Rozitescaperatus5.JPG",
             "http://www.mushroom.world/data/fungi/Rozitescaperatus6.JPG"
         ],
-        "edibility": "edible and good",
-        "description": ""
+        "edibility": "edible and good"
     },
     {
         "name_latin": "Rickenella swartzii",
@@ -312,8 +290,7 @@
             "http://www.mushroom.world/data/fungi/Rickenellaswartzii3.JPG",
             "http://www.mushroom.world/data/fungi/Rickenellaswartzii4.JPG"
         ],
-        "edibility": "inedible",
-        "description": ""
+        "edibility": "inedible"
     },
     {
         "name_latin": "Rhizina undulata",
@@ -324,8 +301,7 @@
             "http://www.mushroom.world/data/fungi/Rhizinaundulata2.JPG",
             "http://www.mushroom.world/data/fungi/Rhizinaundulata3.JPG"
         ],
-        "edibility": "inedible",
-        "description": ""
+        "edibility": "inedible"
     },
     {
         "name_latin": "Psilocybe semilanceata",
@@ -338,8 +314,7 @@
             "http://www.mushroom.world/data/fungi/Psilocybesemilanceata4.JPG",
             "http://www.mushroom.world/data/fungi/Psilocybesemilanceata5.JPG"
         ],
-        "edibility": "inedible",
-        "description": ""
+        "edibility": "inedible"
     },
     {
         "name_latin": "Psathyrella candolleana",
@@ -352,8 +327,7 @@
             "http://www.mushroom.world/data/fungi/Psathyrellacandolleana4.JPG",
             "http://www.mushroom.world/data/fungi/Psathyrellacandolleana5.JPG"
         ],
-        "edibility": "inedible",
-        "description": ""
+        "edibility": "inedible"
     },
     {
         "name_latin": "Polyporus squamosus",
@@ -363,8 +337,7 @@
             "http://www.mushroom.world/data/fungi/Polyporussquamosus1.JPG",
             "http://www.mushroom.world/data/fungi/Polyporussquamosus2.JPG"
         ],
-        "edibility": "edible",
-        "description": ""
+        "edibility": "edible"
     },
     {
         "name_latin": "Polyporus ciliatus",
@@ -377,8 +350,7 @@
             "http://www.mushroom.world/data/fungi/Polyporusciliatus4.JPG",
             "http://www.mushroom.world/data/fungi/Polyporusciliatus5.JPG"
         ],
-        "edibility": "inedible",
-        "description": ""
+        "edibility": "inedible"
     },
     {
         "name_latin": "Pholiota squarrosa",
@@ -391,8 +363,7 @@
             "http://www.mushroom.world/data/fungi/Pholiotasquarrosa4.JPG",
             "http://www.mushroom.world/data/fungi/Pholiotasquarrosa5.JPG"
         ],
-        "edibility": "inedible",
-        "description": ""
+        "edibility": "inedible"
     },
     {
         "name_latin": "Pholiota alnicola",
@@ -406,8 +377,7 @@
             "http://www.mushroom.world/data/fungi/Pholiotaalnicola5.JPG",
             "http://www.mushroom.world/data/fungi/Pholiotaalnicola6.JPG"
         ],
-        "edibility": "inedible",
-        "description": ""
+        "edibility": "inedible"
     },
     {
         "name_latin": "Paxillus involutus",
@@ -420,8 +390,7 @@
             "http://www.mushroom.world/data/fungi/Paxillusinvolutus4.JPG",
             "http://www.mushroom.world/data/fungi/Paxillusinvolutus5.JPG"
         ],
-        "edibility": "poisonous",
-        "description": ""
+        "edibility": "poisonous"
     },
     {
         "name_latin": "Paxillus atrotomentosus",
@@ -432,8 +401,7 @@
             "http://www.mushroom.world/data/fungi/Paxillusatrotomentosus2.JPG",
             "http://www.mushroom.world/data/fungi/Paxillusatrotomentosus3.JPG"
         ],
-        "edibility": "inedible",
-        "description": ""
+        "edibility": "inedible"
     },
     {
         "name_latin": "Otidea onotica",
@@ -443,8 +411,7 @@
             "http://www.mushroom.world/data/fungi/Otideaonotica1.jpg",
             "http://www.mushroom.world/data/fungi/Otideaonotica2.jpg"
         ],
-        "edibility": "inedible",
-        "description": ""
+        "edibility": "inedible"
     },
     {
         "name_latin": "Mycena galericulata",
@@ -456,8 +423,7 @@
             "http://www.mushroom.world/data/fungi/Mycenagalericulata3.JPG",
             "http://www.mushroom.world/data/fungi/Mycenagalericulata4.JPG"
         ],
-        "edibility": "inedible",
-        "description": ""
+        "edibility": "inedible"
     },
     {
         "name_latin": "Morchella elata",
@@ -470,8 +436,7 @@
             "http://www.mushroom.world/data/fungi/Morchellaelata4.JPG",
             "http://www.mushroom.world/data/fungi/Morchellaelata5.JPG"
         ],
-        "edibility": "edible",
-        "description": ""
+        "edibility": "edible"
     },
     {
         "name_latin": "Melanoleuca cognata",
@@ -483,8 +448,7 @@
             "http://www.mushroom.world/data/fungi/Melanoleucacognata3.JPG",
             "http://www.mushroom.world/data/fungi/Melanoleucacognata4.JPG"
         ],
-        "edibility": "edible",
-        "description": ""
+        "edibility": "edible"
     },
     {
         "name_latin": "Megacollybia platyphylla",
@@ -495,8 +459,7 @@
             "http://www.mushroom.world/data/fungi/Megacollybiaplatyphylla2.JPG",
             "http://www.mushroom.world/data/fungi/Megacollybiaplatyphylla3.JPG"
         ],
-        "edibility": "inedible",
-        "description": ""
+        "edibility": "inedible"
     },
     {
         "name_latin": "Marasmius oreades",
@@ -509,8 +472,7 @@
             "http://www.mushroom.world/data/fungi/Marasmiusoreades4.JPG",
             "http://www.mushroom.world/data/fungi/Marasmiusoreades5.JPG"
         ],
-        "edibility": "edible and good",
-        "description": ""
+        "edibility": "edible and good"
     },
     {
         "name_latin": "Macrolepiota procera",
@@ -520,8 +482,7 @@
             "http://www.mushroom.world/data/fungi/Macrolepiotaprocera1.jpg",
             "http://www.mushroom.world/data/fungi/Macrolepiotaprocera2.JPG"
         ],
-        "edibility": "edible and excellent",
-        "description": ""
+        "edibility": "edible and excellent"
     },
     {
         "name_latin": "Macrolepiota  rachodes",
@@ -533,8 +494,7 @@
             "http://www.mushroom.world/data/fungi/Macrolepiotarachodes3.JPG",
             "http://www.mushroom.world/data/fungi/Macrolepiotarachodes4.JPG"
         ],
-        "edibility": "edible and excellent",
-        "description": ""
+        "edibility": "edible and excellent"
     },
     {
         "name_latin": "Lycoperdon pyriforme",
@@ -546,8 +506,7 @@
             "http://www.mushroom.world/data/fungi/Lycoperdonpyriforme3.JPG",
             "http://www.mushroom.world/data/fungi/Lycoperdonpyriforme4.JPG"
         ],
-        "edibility": "edible",
-        "description": ""
+        "edibility": "edible"
     },
     {
         "name_latin": "Lycoperdon perlatum",
@@ -560,8 +519,7 @@
             "http://www.mushroom.world/data/fungi/Lycoperdonperlatum4.JPG",
             "http://www.mushroom.world/data/fungi/Lycoperdonperlatum5.JPG"
         ],
-        "edibility": "edible",
-        "description": ""
+        "edibility": "edible"
     },
     {
         "name_latin": "Lycoperdon nigrescens",
@@ -574,8 +532,7 @@
             "http://www.mushroom.world/data/fungi/Lycoperdonnigrescens4.JPG",
             "http://www.mushroom.world/data/fungi/Lycoperdonnigrescens5.JPG"
         ],
-        "edibility": "inedible",
-        "description": ""
+        "edibility": "inedible"
     },
     {
         "name_latin": "Lepista nuda",
@@ -588,8 +545,7 @@
             "http://www.mushroom.world/data/fungi/Lepistanuda4.JPG",
             "http://www.mushroom.world/data/fungi/Lepistanuda5.JPG"
         ],
-        "edibility": "edible and good",
-        "description": ""
+        "edibility": "edible and good"
     },
     {
         "name_latin": "Lepista nebularis",
@@ -601,8 +557,7 @@
             "http://www.mushroom.world/data/fungi/Lepistanebularis3.JPG",
             "http://www.mushroom.world/data/fungi/Lepistanebularis4.JPG"
         ],
-        "edibility": "inedible",
-        "description": ""
+        "edibility": "inedible"
     },
     {
         "name_latin": "Leccinum versipelle",
@@ -615,8 +570,7 @@
             "http://www.mushroom.world/data/fungi/Leccinumversipelle4.JPG",
             "http://www.mushroom.world/data/fungi/Leccinumversipelle5.JPG"
         ],
-        "edibility": "edible",
-        "description": ""
+        "edibility": "edible"
     },
     {
         "name_latin": "Leccinum scabrum",
@@ -628,8 +582,7 @@
             "http://www.mushroom.world/data/fungi/Leccinumscabrum3.JPG",
             "http://www.mushroom.world/data/fungi/Leccinumscabrum4.JPG"
         ],
-        "edibility": "edible",
-        "description": ""
+        "edibility": "edible"
     },
     {
         "name_latin": "Lactarius volemus",
@@ -638,8 +591,7 @@
         "img_urls": [
             "http://www.mushroom.world/data/fungi/Lactariusvolemus1.JPG"
         ],
-        "edibility": "edible and good",
-        "description": ""
+        "edibility": "edible and good"
     },
     {
         "name_latin": "Lactarius turpis",
@@ -653,8 +605,7 @@
             "http://www.mushroom.world/data/fungi/Lactariusturpis5.JPG",
             "http://www.mushroom.world/data/fungi/Lactariusturpis6.JPG"
         ],
-        "edibility": "inedible",
-        "description":
+        "edibility": "inedible"
     },
     {
         "name_latin": "Lactarius trivialis",
@@ -667,9 +618,7 @@
             "http://www.mushroom.world/data/fungi/Lactariustrivialis4.JPG",
             "http://www.mushroom.world/data/fungi/Lactariustrivialis5.JPG"
         ],
-        "edibility": "edible when cooked",
-        "description":
-    
+        "edibility": "edible when cooked"
     },
     {
         "name_latin": "Lactarius torminosus",
@@ -682,8 +631,7 @@
             "http://www.mushroom.world/data/fungi/Lactariustorminosus4.JPG",
             "http://www.mushroom.world/data/fungi/Lactariustorminosus5.JPG"
         ],
-        "edibility": "edible when cooked",
-        "description":
+        "edibility": "edible when cooked"
     },
     {
         "name_latin": "Lactarius rufus",
@@ -696,8 +644,7 @@
             "http://www.mushroom.world/data/fungi/Lactariusrufus4.JPG",
             "http://www.mushroom.world/data/fungi/Lactariusrufus5.JPG"
         ],
-        "edibility": "edible when cooked",
-        "description":
+        "edibility": "edible when cooked"
     },
     {
         "name_latin": "Lactarius lignyotus",
@@ -710,8 +657,7 @@
             "http://www.mushroom.world/data/fungi/Lactariuslignyotus4.JPG",
             "http://www.mushroom.world/data/fungi/Lactariuslignyotus5.JPG"
         ],
-        "edibility": "inedible",
-        "description":
+        "edibility": "inedible"
     },
     {
         "name_latin": "Lactarius helvus",
@@ -724,8 +670,7 @@
             "http://www.mushroom.world/data/fungi/Lactariushelvus4.JPG",
             "http://www.mushroom.world/data/fungi/Lactariushelvus5.JPG"
         ],
-        "edibility": "poisonous",
-        "description":
+        "edibility": "poisonous"
     },
     {
         "name_latin": "Lactarius deterrimus",
@@ -737,8 +682,7 @@
             "http://www.mushroom.world/data/fungi/Lactariusdeterrimus3.JPG",
             "http://www.mushroom.world/data/fungi/Lactariusdeterrimus4.JPG"
         ],
-        "edibility": "edible",
-        "description":
+        "edibility": "edible"
     },
     {
         "name_latin": "Lactarius deliciosus",
@@ -751,8 +695,7 @@
             "http://www.mushroom.world/data/fungi/Lactariusdeliciosus4.JPG",
             "http://www.mushroom.world/data/fungi/Lactariusdeliciosus5.JPG"
         ],
-        "edibility": "edible and good",
-        "description": ""
+        "edibility": "edible and good"
     },
     {
         "name_latin": "Lactarius camphoratus",
@@ -765,8 +708,7 @@
             "http://www.mushroom.world/data/fungi/Lactariuscamphoratus4.JPG",
             "http://www.mushroom.world/data/fungi/Lactariuscamphoratus5.JPG"
         ],
-        "edibility": "inedible",
-        "description": ""
+        "edibility": "inedible"
     },
     {
         "name_latin": "Laccaria laccata",
@@ -778,8 +720,7 @@
             "http://www.mushroom.world/data/fungi/Laccarialaccata3.JPG",
             "http://www.mushroom.world/data/fungi/Laccarialaccata4.JPG"
         ],
-        "edibility": "edible",
-        "description": ""
+        "edibility": "edible"
     },
     {
         "name_latin": "Kuehneromyces mutabilis",
@@ -792,8 +733,7 @@
             "http://www.mushroom.world/data/fungi/Kuehneromycesmutabilis4.JPG",
             "http://www.mushroom.world/data/fungi/Kuehneromycesmutabilis5.JPG"
         ],
-        "edibility": "edible",
-        "description": ""
+        "edibility": "edible"
     },
     {
         "name_latin": "Inocybe lacera",
@@ -804,8 +744,7 @@
             "http://www.mushroom.world/data/fungi/Inocybelacera2.JPG",
             "http://www.mushroom.world/data/fungi/Inocybelacera3.JPG"
         ],
-        "edibility": "inedible",
-        "description": ""
+        "edibility": "inedible"
     },
     {
         "name_latin": "Hypholoma fasciculare",
@@ -818,8 +757,7 @@
             "http://www.mushroom.world/data/fungi/Hypholomafasciculare4.JPG",
             "http://www.mushroom.world/data/fungi/Hypholomafasciculare5.JPG"
         ],
-        "edibility": "poisonous",
-        "description": ""
+        "edibility": "poisonous"
     },
     {
         "name_latin": "Hypholoma capnoides",
@@ -833,8 +771,7 @@
             "http://www.mushroom.world/data/fungi/Hypholomacapnoides5.JPG",
             "http://www.mushroom.world/data/fungi/Hypholomacapnoides6.JPG"
         ],
-        "edibility": "inedible",
-        "description": ""
+        "edibility": "inedible"
     },
     {
         "name_latin": "Hygrophorus hypothejus",
@@ -1050,8 +987,7 @@
             "http://www.mushroom.world/data/fungi/Cortinariusrubellus2.jpg",
             "http://www.mushroom.world/data/fungi/Cortinariusrubellus3.jpg"
         ],
-        "edibility": "lethally poisonous",
-        "description": ""
+        "edibility": "lethally poisonous"
     },
     {
         "name_latin": "Cortinarius mucosus",
@@ -1063,8 +999,7 @@
             "http://www.mushroom.world/data/fungi/Cortinariusmucosus3.JPG",
             "http://www.mushroom.world/data/fungi/Cortinariusmucosus4.JPG"
         ],
-        "edibility": "inedible",
-        "description": ""
+        "edibility": "inedible"
     },
     {
         "name_latin": "Cortinarius malicorius",
@@ -1074,8 +1009,7 @@
             "http://www.mushroom.world/data/fungi/Cortinariusmalicorius1.jpg",
             "http://www.mushroom.world/data/fungi/Cortinariusmalicorius2.jpg"
         ],
-        "edibility": "inedible",
-        "description": ""
+        "edibility": "inedible"
     },
     {
         "name_latin": "Cortinarius laniger",
@@ -1088,8 +1022,7 @@
             "http://www.mushroom.world/data/fungi/Cortinariuslaniger4.JPG",
             "http://www.mushroom.world/data/fungi/Cortinariuslaniger5.JPG"
         ],
-        "edibility": "inedible",
-        "description": ""
+        "edibility": "inedible"
     },
     {
         "name_latin": "Cortinarius collinitus",
@@ -1101,8 +1034,7 @@
             "http://www.mushroom.world/data/fungi/Cortinariuscollinitus3.JPG",
             "http://www.mushroom.world/data/fungi/Cortinariuscollinitus4.JPG"
         ],
-        "edibility": "inedible",
-        "description": ""
+        "edibility": "inedible"
     },
     {
         "name_latin": "Cortinarius armillatus",
@@ -1113,8 +1045,7 @@
             "http://www.mushroom.world/data/fungi/Cortinariusarmillatus2.JPG",
             "http://www.mushroom.world/data/fungi/Cortinariusarmillatus3.JPG"
         ],
-        "edibility": "inedible",
-        "description": ""
+        "edibility": "inedible"
     },
     {
         "name_latin": "Cortinarius alboviolaceus",
@@ -1125,8 +1056,7 @@
             "http://www.mushroom.world/data/fungi/Cortinariusalboviolaceus2.JPG",
             "http://www.mushroom.world/data/fungi/Cortinariusalboviolaceus3.JPG"
         ],
-        "edibility": "inedible",
-        "description": ""
+        "edibility": "inedible"
     },
     {
         "name_latin": "Coprinus plicatilis",
@@ -1153,8 +1083,7 @@
             "http://www.mushroom.world/data/fungi/Coprinuscomatus4.JPG",
             "http://www.mushroom.world/data/fungi/Coprinuscomatus5.JPG"
         ],
-        "edibility": "edible and good",
-        "description": ""
+        "edibility": "edible and good"
     },
     {
         "name_latin": "Coprinus atramentarius",
@@ -1168,8 +1097,7 @@
             "http://www.mushroom.world/data/fungi/Coprinusatramentarius5.JPG",
             "http://www.mushroom.world/data/fungi/Coprinusatramentarius6.JPG"
         ],
-        "edibility": "poisonous",
-        "description": ""
+        "edibility": "poisonous"
     },
     {
         "name_latin": "Coltricia perennis",
@@ -1182,8 +1110,7 @@
             "http://www.mushroom.world/data/fungi/Coltriciaperennis4.JPG",
             "http://www.mushroom.world/data/fungi/Coltriciaperennis5.JPG"
         ],
-        "edibility": "inedible",
-        "description": ""
+        "edibility": "inedible"
     },
     {
         "name_latin": "Collybia dryophila",
@@ -1195,8 +1122,7 @@
             "http://www.mushroom.world/data/fungi/Collybiadryophila3.JPG",
             "http://www.mushroom.world/data/fungi/Collybiadryophila4.JPG"
         ],
-        "edibility": "inedible",
-        "description": ""
+        "edibility": "inedible"
     },
     {
         "name_latin": "Clitopilus prunulus",
@@ -1206,8 +1132,7 @@
             "http://www.mushroom.world/data/fungi/Clitopilusprunulus1.JPG",
             "http://www.mushroom.world/data/fungi/Clitopilusprunulus2.JPG"
         ],
-        "edibility": "edible",
-        "description": ""
+        "edibility": "edible"
     },
     {
         "name_latin": "Clitocybe nebularis",
@@ -1219,8 +1144,7 @@
             "http://www.mushroom.world/data/fungi/Clitocybenebularis3.JPG",
             "http://www.mushroom.world/data/fungi/Clitocybenebularis4.JPG"
         ],
-        "edibility": "inedible",
-        "description": ""
+        "edibility": "inedible"
     },
     {
         "name_latin": "Clitocybe gibba",
@@ -1234,8 +1158,7 @@
             "http://www.mushroom.world/data/fungi/Clitocybegibba5.JPG",
             "http://www.mushroom.world/data/fungi/Clitocybegibba6.JPG"
         ],
-        "edibility": "edible",
-        "description": ""
+        "edibility": "edible"
     },
     {
         "name_latin": "Clitocybe clavipes",
@@ -1248,8 +1171,7 @@
             "http://www.mushroom.world/data/fungi/Clitocybeclavipes4.JPG",
             "http://www.mushroom.world/data/fungi/Clitocybeclavipes5.JPG"
         ],
-        "edibility": "inedible",
-        "description": ""
+        "edibility": "inedible"
     },
     {
         "name_latin": "Chalciporus piperatus",
@@ -1263,8 +1185,7 @@
             "http://www.mushroom.world/data/fungi/Chalciporuspiperatus5.JPG",
             "http://www.mushroom.world/data/fungi/Chalciporuspiperatus6.JPG"
         ],
-        "edibility": "inedible",
-        "description": ""
+        "edibility": "inedible"
     },
     {
         "name_latin": "Cantharellus tubaeformis",
@@ -1277,8 +1198,7 @@
             "http://www.mushroom.world/data/fungi/Cantharellustubaeformis4.JPG",
             "http://www.mushroom.world/data/fungi/Cantharellustubaeformis5.JPG"
         ],
-        "edibility": "edible and good",
-        "description": ""
+        "edibility": "edible and good"
     },
     {
         "name_latin": "Cantharellus cibarius",
@@ -1291,8 +1211,7 @@
             "http://www.mushroom.world/data/fungi/Cantharelluscibarius4.JPG",
             "http://www.mushroom.world/data/fungi/Cantharelluscibarius5.JPG"
         ],
-        "edibility": "edible and excellent",
-        "description": ""
+        "edibility": "edible and excellent"
     },
     {
         "name_latin": "Cantharellula umbonata",
@@ -1304,8 +1223,7 @@
             "http://www.mushroom.world/data/fungi/Cantharellulaumbonata3.JPG",
             "http://www.mushroom.world/data/fungi/Cantharellulaumbonata4.JPG"
         ],
-        "edibility": "edible",
-        "description": ""
+        "edibility": "edible"
     },
     {
         "name_latin": "Calvatia excipuliformis",
@@ -1317,8 +1235,7 @@
             "http://www.mushroom.world/data/fungi/Calvatiaexcipuliformis3.JPG",
             "http://www.mushroom.world/data/fungi/Calvatiaexcipuliformis4.JPG"
         ],
-        "edibility": "edible",
-        "description": ""
+        "edibility": "edible"
     },
     {
         "name_latin": "Calocybe persicolor",
@@ -1327,8 +1244,7 @@
         "img_urls": [
             "http://www.mushroom.world/data/fungi/Calocybepersicolor1.jpg"
         ],
-        "edibility": "inedible",
-        "description": ""
+        "edibility": "inedible"
     },
     {
         "name_latin": "Calocera viscosa",
@@ -1338,8 +1254,7 @@
             "http://www.mushroom.world/data/fungi/Caloceraviscosa1.JPG",
             "http://www.mushroom.world/data/fungi/Caloceraviscosa2.JPG"
         ],
-        "edibility": "inedible",
-        "description": ""
+        "edibility": "inedible"
     },
     {
         "name_latin": "Bovista plumbea",
@@ -1352,8 +1267,7 @@
             "http://www.mushroom.world/data/fungi/Bovistaplumbea4.JPG",
             "http://www.mushroom.world/data/fungi/Bovistaplumbea5.JPG"
         ],
-        "edibility": "edible",
-        "description": ""
+        "edibility": "edible"
     },
     {
         "name_latin": "Boletus subtomentosus",
@@ -1366,8 +1280,7 @@
             "http://www.mushroom.world/data/fungi/Boletussubtomentosus4.JPG",
             "http://www.mushroom.world/data/fungi/Boletussubtomentosus5.JPG"
         ],
-        "edibility": "edible",
-        "description": ""
+        "edibility": "edible"
     },
     {
         "name_latin": "Boletus satanas",
@@ -1377,8 +1290,7 @@
             "http://www.mushroom.world/data/fungi/Boletussatanas1.jpg",
             "http://www.mushroom.world/data/fungi/Boletussatanas2.jpg"
         ],
-        "edibility": "lethally poisonous",
-        "description": ""
+        "edibility": "lethally poisonous"
     },
     {
         "name_latin": "Boletus pinophilus",
@@ -1391,8 +1303,7 @@
             "http://www.mushroom.world/data/fungi/Boletuspinophilus4.JPG",
             "http://www.mushroom.world/data/fungi/Boletuspinophilus5.JPG"
         ],
-        "edibility": "edible and excellent",
-        "description": ""
+        "edibility": "edible and excellent"
     },
     {
         "name_latin": "Boletus edulis",
@@ -1406,8 +1317,7 @@
             "http://www.mushroom.world/data/fungi/Boletusedulis5.JPG",
             "http://www.mushroom.world/data/fungi/Boletusedulis6.JPG"
         ],
-        "edibility": "edible and excellent",
-        "description": ""
+        "edibility": "edible and excellent"
     },
     {
         "name_latin": "Boletus badius",
@@ -1421,8 +1331,7 @@
             "http://www.mushroom.world/data/fungi/Boletusbadius5.JPG",
             "http://www.mushroom.world/data/fungi/Boletusbadius7.JPG"
         ],
-        "edibility": "edible and good",
-        "description": ""
+        "edibility": "edible and good"
     },
     {
         "name_latin": "Bankera fuligineoalba",
@@ -1431,8 +1340,7 @@
         "img_urls": [
             "http://www.mushroom.world/data/fungi/Bankerafuligineoalba1.jpg"
         ],
-        "edibility": "inedible",
-        "description": ""
+        "edibility": "inedible"
     },
     {
         "name_latin": "Auriscalpium vulgare",
@@ -1442,8 +1350,7 @@
             "http://www.mushroom.world/data/fungi/Auriscalpiumvulgare1.jpg",
             "http://www.mushroom.world/data/fungi/Auriscalpiumvulgare2.JPG"
         ],
-        "edibility": "inedible",
-        "description": ""
+        "edibility": "inedible"
     },
     {
         "name_latin": "Armillaria mellea",
@@ -1457,8 +1364,7 @@
             "http://www.mushroom.world/data/fungi/Armillariamellea5.JPG",
             "http://www.mushroom.world/data/fungi/Armillariamellea6.JPG"
         ],
-        "edibility": "edible",
-        "description": ""
+        "edibility": "edible"
     },
     {
         "name_latin": "Amanita virosa",
@@ -1470,8 +1376,7 @@
             "http://www.mushroom.world/data/fungi/Amanitavirosa3.JPG",
             "http://www.mushroom.world/data/fungi/Amanitavirosa4.JPG"
         ],
-        "edibility": "lethally poisonous",
-        "description": ""
+        "edibility": "lethally poisonous"
     },
     {
         "name_latin": "Amanita rubescens",
@@ -1484,8 +1389,7 @@
             "http://www.mushroom.world/data/fungi/Amanitarubescens4.JPG",
             "http://www.mushroom.world/data/fungi/Amanitarubescens5.JPG"
         ],
-        "edibility": "poisonous",
-        "description": ""
+        "edibility": "poisonous"
     },
     {
         "name_latin": "Amanita regalis",
@@ -1498,8 +1402,7 @@
             "http://www.mushroom.world/data/fungi/Amanitaregalis4.JPG",
             "http://www.mushroom.world/data/fungi/Amanitaregalis5.JPG"
         ],
-        "edibility": "poisonous",
-        "description": ""
+        "edibility": "poisonous"
     },
     {
         "name_latin": "Amanita porphyria",
@@ -1512,8 +1415,7 @@
             "http://www.mushroom.world/data/fungi/Amanitaporphyria4.JPG",
             "http://www.mushroom.world/data/fungi/Amanitaporphyria5.JPG"
         ],
-        "edibility": "poisonous",
-        "description": ""
+        "edibility": "poisonous"
     },
     {
         "name_latin": "Amanita phalloides",
@@ -1523,8 +1425,7 @@
             "http://www.mushroom.world/data/fungi/Amanitaphalloides1.jpg",
             "http://www.mushroom.world/data/fungi/Amanitaphalloides2.jpg"
         ],
-        "edibility": "lethally poisonous",
-        "description": ""
+        "edibility": "lethally poisonous"
     },
     {
         "name_latin": "Amanita pantherina",
@@ -1534,8 +1435,7 @@
             "http://www.mushroom.world/data/fungi/Amanitapantherina1.jpg",
             "http://www.mushroom.world/data/fungi/Amanitapantherina2.jpg"
         ],
-        "edibility": "poisonous",
-        "description": ""
+        "edibility": "poisonous"
     },
     {
         "name_latin": "Amanita muscaria",
@@ -1549,8 +1449,7 @@
             "http://www.mushroom.world/data/fungi/Amanitamuscaria5.JPG",
             "http://www.mushroom.world/data/fungi/Amanitamuscaria6.JPG"
         ],
-        "edibility": "poisonous",
-        "description": ""
+        "edibility": "poisonous"
     },
     {
         "name_latin": "Amanita fulva",
@@ -1564,8 +1463,7 @@
             "http://www.mushroom.world/data/fungi/Amanitafulva5.JPG",
             "http://www.mushroom.world/data/fungi/Amanitafulva6.JPG"
         ],
-        "edibility": "inedible",
-        "description": ""
+        "edibility": "inedible"
     },
     {
         "name_latin": "Amanita ceciliae",
@@ -1577,8 +1475,7 @@
             "http://www.mushroom.world/data/fungi/Amanitaceciliae3.JPG",
             "http://www.mushroom.world/data/fungi/Amanitaceciliae4.JPG"
         ],
-        "edibility": "inedible",
-        "description": ""
+        "edibility": "inedible"
     },
     {
         "name_latin": "Albatrellus confluens",
@@ -1589,8 +1486,7 @@
             "http://www.mushroom.world/data/fungi/Albatrellusconfluens2.JPG",
             "http://www.mushroom.world/data/fungi/Albatrellusconfluens3.JPG"
         ],
-        "edibility": "inedible",
-        "description": ""
+        "edibility": "inedible"
     },
     {
         "name_latin": "Agaricus augustus",
@@ -1600,8 +1496,7 @@
             "http://www.mushroom.world/data/fungi/Agaricusaugustus1.jpg",
             "http://www.mushroom.world/data/fungi/Agaricusaugustus2.jpg"
         ],
-        "edibility": "edible and good",
-        "description": ""
+        "edibility": "edible and good"
     },
     {
         "name_latin": "Agaricus arvensis",
@@ -1614,7 +1509,6 @@
             "http://www.mushroom.world/data/fungi/Agaricusarvensis4.JPG",
             "http://www.mushroom.world/data/fungi/Agaricusarvensis5.JPG"
         ],
-        "edibility": "edible and good",
-        "description": ""
+        "edibility": "edible and good"
     }
 ]
